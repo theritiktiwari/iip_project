@@ -1,0 +1,15 @@
+To run the Python code in your system you have to install some of the python libraries/packages.
+The names with their version are mentioned below :
+
+Package               Version
+--------------------- --------
+numpy                 1.20.3
+opencv-contrib-python 4.5.2.52
+opencv-python         4.5.2.52
+
+For Installing the package, Run the code in the terminal 
+
+pip install _package_name_
+
+
+After install the packages you are good to go.
